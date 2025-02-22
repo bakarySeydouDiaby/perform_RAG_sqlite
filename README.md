@@ -1,6 +1,6 @@
 # SQLite RAG Tutorial
 
-A simple project demonstrating Retrieval Augmented Generation (RAG) using SQLite, [sqlite-vec](https://github.com/asg017/sqlite-vec), and OpenAI. It embeds text files, stores them in a SQLite database, and retrieves relevant documents using vector search.
+A simple Retrieval Augmented Generation (RAG) project using SQLite, [sqlite-vec](https://github.com/asg017/sqlite-vec), and OpenAI. It embeds text files, stores them in a SQLite database, and retrieves relevant documents using vector search.
 
 ## Features
 
@@ -55,9 +55,9 @@ The script will:
   .
   ├── data
   │   └── *.txt
-  ├── my_docs.db         # Generated SQLite database
+  ├── docs.db         # Generated SQLite database
   ├── requirements.txt
-  └── sqlite_rag_tutorial.py
+  └── sqlite_rag.py
   ```
 
 ## Acknowledgements

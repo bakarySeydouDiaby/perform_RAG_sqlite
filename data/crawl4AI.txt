@@ -1,0 +1,19 @@
+Crawl4AI : 
+    an innovative open-source Python library designed 
+    to streamline web crawling and data extractionc 
+    blazing-fast, AI-ready web crawling tailored for
+    LLMs, AI agents, and data pipelines. 
+    Open source, flexible, and built for real-time 
+    performance, Crawl4AI empowers developers with 
+    unmatched speed, precision, and deployment ease.
+
+    It allows users to scrape multiple URLs simultaneously,
+    making it an ideal choice for projects requiring
+    large-scale data gathering. 
+    With features tailored for AI applications, 
+    Crawl4AI simplifies the process of transforming 
+    raw web data into structured formats.
+
+
+    source : medium 
+        https://gautam75.medium.com/crawl4ai-unleashing-efficient-web-scraping-1825560300c3

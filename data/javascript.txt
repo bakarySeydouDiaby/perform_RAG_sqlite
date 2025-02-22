@@ -1,0 +1,30 @@
+linter: XO
+    consistent code standards and best practices
+
+ES6 JavaScript Code: Babel
+    transpile ES6 code to ES5
+
+
+unit and integration tests: Jest and Mocha
+
+
+client-side javascript : DOM, event listeners on click button
+
+DOM hierarchy : javascript to manipulate the DOM
+by selecting elements and modifying their properties,
+attributes and content
+
+
+javascript concepts
+    spread and rest operator
+    optional chaining
+    nullish coalescing
+    Proxy objects
+    Memoization
+    event delegation
+    web workers
+    service workers
+    custom elements and shadow dom
+    javascript arrays methods : map filter reduce
+    arrow functions
+    IIFE : Immediatly Invoked Function Expression

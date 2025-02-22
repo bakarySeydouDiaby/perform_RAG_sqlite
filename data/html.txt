@@ -1,0 +1,38 @@
+After completing this reading section, you will be able to:
+
+Use titles and headings to label information
+Insert text using the paragraph element
+Insert line breaks on a page
+Add links to different sections of a page and other pages
+Create a list of items
+Add a table of data
+Insert an image
+
+HTML Setup
+===========
+Recall that an HTML document must always start by specifying the DOCTYPE. 
+The entire content is then enclosed within an <html> tag. 
+Within this tag, the content is further segregated into either the <head> or <body> elements of the code. 
+The <head> tag contains all the metadata about the page, 
+and the <body> tag contains the content that is displayed to the end user.
+
+As per this setup, an empty HTML document without content or metadata should look as follows:
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Metadata goes here -->
+    </head>
+    <body>
+        <!-- Content goes here -->
+    </body>
+</html>
+
+
+Adding Text
+The <p> tag should be used to insert text into your HTML document. This element stands for paragraph and includes any text content, whether it is a single word or a 10-page essay.
+
+
+
+Add Links to Other Pages : 
+Web pages can link to other pages or other places on the same page via a hyperlink. The <a> tag defines a hyperlink in HTML, followed by the href attribute to define the destination address of the hyperlink.
+Hyperlinks are normally inserted into text so that when you click some hyperlinked text, it takes you to the destination.
